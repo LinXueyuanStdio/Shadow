@@ -1,6 +1,6 @@
 # Shadow
 
-Shadow的设计细节将在掘金持续分享:https://juejin.im/user/5d12faee6fb9a07ed8425178/posts
+![Android CI](https://github.com/Tencent/Shadow/workflows/Android%20CI/badge.svg?event=push)
 
 ## 介绍
 Shadow是一个腾讯自主研发的Android插件框架，经过线上亿级用户量检验。
@@ -41,7 +41,7 @@ Shadow不仅开源分享了插件技术的关键代码，还完整的分享了�
 
 如果没有出错，再尝试用Android Studio打开工程。
 
-* **必须**使用3.4或更高版本的Android Studio打开工程。(业务插件开发时没有限制)
+* **必须**使用3.5或更高版本的Android Studio打开工程。(业务插件开发时没有限制)
 * **必须**关闭Android Studio的**Instant Run**功能。
 
 然后就可以在IDE中选择`sample-host`模块直接运行了。

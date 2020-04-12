@@ -24,6 +24,7 @@ import android.view.View;
 
 import com.tencent.shadow.dynamic.host.EnterCallback;
 import com.tencent.shadow.test.lib.constant.Constant;
+import com.tencent.shadow.test.lib.test_manager.SimpleIdlingResource;
 
 public class JumpToPluginActivity extends Activity {
 
